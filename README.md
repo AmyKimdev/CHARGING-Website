@@ -43,7 +43,7 @@
 
 ## 2. Project Goal
 
-** Discussion on Insights Derived from Data Analysis and Challenges in Web Services **
+**Discussion on Insights Derived from Data Analysis and Challenges in Web Services**
 
 - Analysis of yearly electric vehicle (EV) sales data using the Bass model concluded that sales would increase until 2032, followed by a decline starting in 2033.
 - The primary factors influencing EV purchases were found to be economic (government subsidies, reduced charging costs) and environmental (reduction in carbon emissions).
@@ -53,7 +53,7 @@
 
 ## 3. Project Feature Discription
 
-** Explaining the Utility, Convenience, and Practicality of Visualization in the Web Service **
+**Explaining the Utility, Convenience, and Practicality of Visualization in the Web Service**
 
 - Main Features: - Real-time monitoring and review writing/reading for EV charging stations.
 - Providing information on electric vehicles and allowing for review writing/reading.
