@@ -94,3 +94,18 @@
 - Car recommendation bt MBTI
   ![MBTI](https://github.com/user-attachments/assets/2494cc37-5b52-49d7-badb-4215b861aa7f)
   ![MBTI_result](https://github.com/user-attachments/assets/26b16957-c894-4815-893e-83531ec24f23)
+
+## 5. My Role in the Project
+
+**As a key member of the project team, I was responsible for:**
+
+- Frontend Development :
+
+  - Main Page Design: Implemented data visualization by graphing analysis results and added narrative elements to enhance user engagement and understanding.
+  - Signup & SignIn Pages: Developed user authentication pages, integrating form validation and secure login practices.
+  - Profile Page: Created a user profile page that includes viewing user information, integrating profile pictures, and connecting social media logout functionalities.
+  - Collaboration with Backend Team: Worked closely with the backend team to implement OAuth 2.0 from social login to logout functionalities, ensuring secure and seamless user authentication.
+
+- Data Analysis
+  - Data Cleaning: Utilized Excel and Python (Numpy) to clean and prepare data for analysis, ensuring accuracy and reliability of the dataset.
+  - Sales Forecasting: Applied the Bass model to forecast the sales volume of electric vehicles up to the year 2033, providing strategic insights for future marketing and production planning.
